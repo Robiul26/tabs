@@ -1,0 +1,13 @@
+@media only screen and (max-width: 992px) {
+    .section-center{
+    flex-wrap: wrap;
+    gap: 50px;
+}
+    article{
+    width: 100%;
+    
+    }
+    section {
+    padding: 50px 20px;
+    }
+}
